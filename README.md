@@ -19,4 +19,4 @@
 # - The browser used for this automation was Chrome, at 'demo\rakuten\src\main\resources' you will find the driver for the latest version at the moment (68.0.3440.106)
 # - The project was created and test using Windows 10 machine.
 # 
-# I hope you can enjoy :)
+# I hope can enjoy :)
